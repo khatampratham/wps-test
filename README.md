@@ -9,3 +9,10 @@ Features
 🖥️ Graphical User Interface (GUI): Easy-to-use and interactive interface.<br>
 
 ⏱️ Real-time Feedback: Updates typing stats as you type.<br>
+
+how to run:
+1.copy repo
+```powershell
+git clone https://github.com/khatampratham/typing-speed-test 
+cd typing-speed-test
+
