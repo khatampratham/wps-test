@@ -2,10 +2,10 @@ Check you typing speed.
 
 Features
 
-⌨️ Measure Typing Speed: Calculates words per minute (WPM).
+⌨️ Measure Typing Speed: Calculates words per minute (WPM).<br>
 
-✅ Accuracy Check: Shows the accuracy of your typing.
+✅ Accuracy Check: Shows the accuracy of your typing.<br>
 
-🖥️ Graphical User Interface (GUI): Easy-to-use and interactive interface.
+🖥️ Graphical User Interface (GUI): Easy-to-use and interactive interface.<br>
 
-⏱️ Real-time Feedback: Updates typing stats as you type.
+⏱️ Real-time Feedback: Updates typing stats as you type.<br>
